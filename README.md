@@ -1,5 +1,10 @@
 # Fine-Tuning Embedding Models for RAG Pipeline Optimization
 
+## Check out my Video Walkthrough Here 
+
+[![vid_screenshot.png](vid_screenshot.png)](https://youtu.be/hztWQcoUbt0))
+Click play to watch :)
+
 Base embedding models used for both knowledge base embedding and query embedding for context retrieval in RAG-based applications generally work well, but there are ways to optimize their performance to improve correct information retrieval based on historical user queries and more efficiently retrieve domain-specific information.
 
 **Essentially, fine-tuning embedding models on your data to improve your RAG application!**
